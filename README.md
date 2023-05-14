@@ -1,6 +1,7 @@
 # kcol_graph_gen
 
-![alt text](./assets/cover.png "Cover Logo")
+![Cover Logo](https://github.com/imdeep2905/kcol-graph/blob/main/assets/cover.png?raw=true)
+
 _A minimalistic python package to generate a k-colorable graph._
 
 # Installation
