@@ -1,0 +1,27 @@
+[build-system]
+requires      = ["setuptools>=67.0.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kcol-graph-gen"
+version = "1.0.0"
+description = "Generate a k-colarable graph."
+readme = "README.md"
+authors = [{ name = "Deep Raval", email = "deepraval2905@gmail.com" }]
+license = { file = "LICENSE" }
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python",
+    "Programming Language :: Python :: 3",
+]
+keywords = ["k-colrable", "graph-coloring", "chromatic number"]
+dependencies = []
+requires-python = ">=3.7"
+
+    [project.optional-dependencies]
+    build = ["build", "twine"]
+    dev   = ["black", "pytest"]
+
+    [project.urls]
+    repository    = "https://github.com/imdeep2905/kcol-graph"
+    documentation = "https://github.com/imdeep2905/kcol-graph/blob/main/README.md"
