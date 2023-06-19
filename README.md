@@ -1,4 +1,4 @@
-# kcol_graph_gen
+# kcol_graph_gen [![Downloads](https://static.pepy.tech/personalized-badge/kcol-graph-gen?period=total&units=international_system&left_color=black&right_color=blue&left_text=Downloads)](https://pepy.tech/project/kcol-graph-gen)
 
 ![Cover Logo](https://github.com/imdeep2905/kcol-graph/blob/main/assets/cover.png?raw=true)
 
